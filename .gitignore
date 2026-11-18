@@ -1,0 +1,16 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Local scratch output (committed experiment results stay tracked)
+*.log
+/tmp/
+
+# Node artefacts, even though this project has no dependencies
+node_modules/
+npm-debug.log*

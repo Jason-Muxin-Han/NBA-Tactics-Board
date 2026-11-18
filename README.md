@@ -2,7 +2,8 @@
 
 An interactive basketball tactics board covering **90 NBA plays** across six categories, with a synchronized offense/defense simulation and a full Chinese/English interface.
 
-All 9 playable files are plain static assets — no build step, no dependencies. Open `index.html` directly in a browser.
+All 9 playable files are plain static assets — no build step, no dependencies. Open `index.html` directly in a browser,
+or click https://Jason-Muxin-Han.github.io/NBA-Tactics-Board/ to see it.
 
 ## Preview
 
